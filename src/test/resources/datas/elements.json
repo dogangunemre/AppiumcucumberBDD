@@ -1,0 +1,8 @@
+{
+    "home_login_button": "//*[@resource-id='home_login_button']",
+    "citizenId_input": "//*[@resource-id='citizenId_input']",
+    "password_input": "//*[@resource-id='password_input']",
+    "login_button": "//*[@resource-id='login_button']",
+    "invalidTcknVkn_message": "//*[@text='Lütfen geçerli bir TCKN/VKN girin' and @resource-id='message']",
+    "invalidPassword_message": "//*[@text='Hatalı şifre girdiniz, lütfen kontrol edip tekrar deneyin.']"
+}

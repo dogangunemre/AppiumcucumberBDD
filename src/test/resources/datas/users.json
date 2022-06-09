@@ -1,0 +1,27 @@
+{
+  "cemo": {
+    "citizenId": "23410014566",
+    "phone": "5497966321",
+    "birthDate": "22/04/1972",
+    "birthYear": "1972",
+    "birthMonth": "04",
+    "birthDay": "22",
+    "firstName": "CEMALETTİN",
+    "secondName": "",
+    "lastName": "YILDIRIM",
+    "motherName": "ABİDE",
+    "applicationId": "3585787"
+  },
+  "engin": {
+    "tckn": "13439367668",
+    "phone": "",
+    "birthDate": "01/05/1985",
+    "birthYear": "1985",
+    "birthMonth": "05",
+    "birthDay": "01",
+    "firstName": "ENGİN",
+    "secondName": "",
+    "lastName": "DOĞANSES",
+    "motherName": "GÜLLÜ"
+  }
+}

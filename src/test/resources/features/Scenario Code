@@ -1,0 +1,24 @@
+Code	Result
+0	    Fail
+1	    Success
+
+Code	Case
+01	    Login
+02	    Register
+03	    Credit
+04  	Application
+05  	Calculator
+06  	Campaigns
+07  	ContactUS
+08  	Dealers
+09  	Notification
+10  	Send Temp Password
+11  	Update Customer
+12
+
+Test initial value => 000
+
+Scenario Code : Result Code + Case Code + Initial Value
+
+ex: 101001 => first success login scenario
+ex: 002001 => first fail register scenario
