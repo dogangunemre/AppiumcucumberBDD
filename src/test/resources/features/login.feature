@@ -2,7 +2,7 @@ Feature: Login Feature
 
   Scenario: 101001 Scenario Success Login
     * Open Application
-    * Login Account "17750223962","123456"
+    * Login Account "12345678911","123456"
     * Wait 5 seconds
     * // to-do Sign Out Account
 
@@ -22,7 +22,7 @@ Feature: Login Feature
     * Open Application
     * Click on "home_login_button" element
     * Wait 1 seconds
-    * Find element by "citizenId_input" and send keys "17750223962"
+    * Find element by "citizenId_input" and send keys "12345678911"
     * Wait 1 seconds
     * Find element by "password_input" and send keys "101010"
     * Wait 1 seconds
@@ -38,7 +38,7 @@ Feature: Login Feature
     * Open Application
     * Click on "home_login_button" element
     * Wait 1 seconds
-    * Find element by "citizenId_input" and send keys "17750223962"
+    * Find element by "citizenId_input" and send keys "12345678911"
     * Wait 1 seconds
     * Find element by "password_input" and send keys "123456"
     * Wait 1 seconds
